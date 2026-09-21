@@ -6,4 +6,3 @@ Pasos:
 > descomprimir el dataset en la dentro del proyecto.
 >
 > 2. Ejecutar el notebook.
-> 3. 
